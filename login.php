@@ -97,6 +97,8 @@ if (($_SERVER['REQUEST_METHOD'] === 'POST') && isset($_POST['login']) && $_POST[
             background-color: #45a049;
         }
     </style>
+
+    <!--asjdhnakljshdkjashdkjhas kljapsfipoguoafiaj-->
 </head>
 <body>
 <?php if (isset($message) && !empty($message)) { ?>
